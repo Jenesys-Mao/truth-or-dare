@@ -86,6 +86,16 @@ let truth = [
     "Who do you most want to sleep with, out of everyone here?",
     "If you could make out with any one of us, who would it be?",
     "Who do you fancy the most in this room?",
+    "Have you ever had a threesome?",
+    "Describe the underwear you're wearing right now.",
+    "Have you ever spanked someone/been spanked in bed?",
+    "Have you ever had anal sex?",
+    "If you get a chance to have a threesome with the people in this room, who would you like to choose?",
+    "Who would you like to have a one night stand with?",
+    "What is your body count?",
+    "How many sex partners do you think is too many for a guy or a lady",
+    "What is your favourite sex position?",
+    "The other players have to ask you a question"
 ];
 
 let dare = [
@@ -185,6 +195,25 @@ let dare = [
     "Show me some old intimate photos of yourself that I’ve never seen.",
     "Undress someone without using your hands",
     "Give someone a kiss and pass a gum or a candy as you do.",
+    "Choose someone of the opposite sex then pick a song and the person have to give you a lap dance. Blindfolded.",
+    "Choose someone of the opposite sex and they have one minute to turn you on using only their feet.",
+    "Choose someone of the opposite sex and they have to show you a video (an ~adult~ one, duh) of something you’d like you two to try together",
+    "Send a 'u up' text to your crush.",
+    "Send an eggplant or peach emoji to your crush with no further explanation.",
+    "Demonstrate your hand job technique on the nearest appropriate object",
+    "Spin an empty bottle and kiss whoever it lands on",
+    "Slowly run your tongue from collarbone to earlobe of somwone of the opposite sex.",
+    "Pass someone a sip of your drink from your mouth.",
+    "Show us your favorite sex position.",
+    "Describe your last intercourse in detail.",
+    "Feed someone a fruit with your mouth.",
+    "Remove one of your underwear without removing your outfit.",
+    "Rock, Paper, Scissors. Loser drinks alcohol",
+    "Pick a player of the Opposite sex and whisper to them what you want to do to them",
+    "Make the most authentic orgasm sound for ten seconds",
+    "Let everyone rate from 1-10",
+    "Pick a player of the opposite sex to grab your ass or to grab their ass",
+    "The the other players have to give you a dare"
 ];
 
 truthBtn.addEventListener('click', () => {
